@@ -115,7 +115,7 @@ namespace IoT_Car
 
         private void GithubButton_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/kj-chen");
+            System.Diagnostics.Process.Start("https://github.com/kj-chen/iot_car_client");
         }
 
         private void GithubButton_MouseEnter(object sender, EventArgs e)
